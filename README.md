@@ -10,7 +10,9 @@ The DRL model rarely will converge. The Dataset_Builder was made to be able to g
 This is also true for the custom LSTM model called 'own_data_lstm'. The 'standard_lstm' is available for use because it pulls data from yahoo finance. 
 
 price_df.csv and signals_df.csv are for the DRL model.
+
 prices-2019.csv and signals-2019.csv are also for the DRL model. via gitbub linked below
+
 lstm_data_v2.csv is a custom dataset for the 'own_data_lstm' function.
 
 
