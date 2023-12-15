@@ -11,7 +11,7 @@ This is also true for the custom LSTM model called 'own_data_lstm'. The 'standar
 
 price_df.csv and signals_df.csv are for the DRL model.
 
-prices-2019.csv and signals-2019.csv are also for the DRL model. via gitbub linked below
+prices-2019.csv and signals-2019.csv are also for the DRL model. via github linked below
 
 lstm_data_v2.csv is a custom dataset for the 'own_data_lstm' function.
 
